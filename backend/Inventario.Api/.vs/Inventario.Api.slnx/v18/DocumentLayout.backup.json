@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos\\prueba_tecnica_ejemplo\\backend\\inventario.api\\inventario.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos\\prueba_tecnica_ejemplo\\backend\\inventario.api\\inventario.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos\\prueba_tecnica_ejemplo\\backend\\inventario.api\\inventario.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C07D723-BF30-452E-A92E-2D367E056205}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Inventario.Api\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T04:12:33.437Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Inventario.Api\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAA0AAABAAAAAAAApwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T04:12:30.606Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\proyectos\\prueba_tecnica_ejemplo\\backend\\Inventario.Api\\Inventario.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACYAAADAAQAAAIAswDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T04:05:55.409Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
